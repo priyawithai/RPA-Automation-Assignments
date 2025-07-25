@@ -60,7 +60,6 @@ This project was built as part of my automation learning journey — to simplify
 
 ## 🔧 Installation
 
-```bash
 git clone https://github.com/yourusername/RPA-Automation-Assignments.git
 cd RPA-Automation-Assignments
 pip install -r requirements.txt
@@ -69,9 +68,10 @@ pip install -r requirements.txt
 ## ⚙️ Usage
 1. WhatsApp Automation
 python whatsapp_automation.py
-2. Email Automation
 
+2. Email Automation
 python email_sender.py
+
 3. Win+Enter Auto Trigger
 
 python keyboard_trigger.py
@@ -81,34 +81,37 @@ python browser_automation.py
 5. Mouse Pointer Tracker
 
 python mouse_tracker.py
+
+---
+
 🔒 Configuration
 Update email credentials inside email_sender.py
 
 Replace contact names or search queries inside relevant scripts
 
 Set browser paths or XPath selectors as needed
-
+---
 🛣 Roadmap
  Add voice-controlled automation
 
  GUI-based dashboard to trigger tasks
 
  Logging for all actions
-
+---
 🤝 Contribution
 Pull requests are welcome.
 For major changes, please open an issue first to discuss what you would like to change.
 
 Contribution Guidelines: (add link when ready)
-
+---
 📜 License
 MIT License
-
+---
 🙋 Author & Contact
 Name: Priya
 GitHub: priyawithai
 Contact: priyawithai@gmail.com
-
+---
 🎓 Acknowledgements
 ChatGPT for prompt support
 
